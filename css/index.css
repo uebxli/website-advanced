@@ -71,3 +71,58 @@ body{
   line-height: 40px;
   margin-right: 50px;
 }
+
+/*②*/
+
+.rice-img , .snack-img{
+    display:block;
+    margin:0 auto;
+    width:600px;    
+}
+
+.rice , .snack{
+    margin-bottom:150px;
+}
+
+.rice-snack-caption1{
+    width:80%;
+    margin:0 auto;
+    display:flex;
+}
+
+.daytime-img , .night-img{
+    width:75px;
+    height:75px;
+    margin-top:30px;
+    margin-right:20px;
+}
+
+.funny-img{
+    width:80px;
+    height:80px;
+    margin-top:30px;
+    margin-right:0px;
+}
+
+span{
+    margin-left:50px;
+}
+
+.rice-snack-caption1 p{
+    font-size: 45px;
+    font-weight: bold;
+    margin:30px 0;
+}
+
+.rice-snack-caption2{
+    font-size:30px;
+    font-weight:bold;
+    text-align: center;
+}
+
+.daytime , .night , .cake{
+    margin:0 auto;
+    display:flex;
+    margin-bottom:20px;
+}
+
