@@ -65,11 +65,15 @@ body{
 
 
 .flex-wrapper p{
-  font-size: 20px;
+  font-size: 25px;
   font-weight: bold;
   margin-left: 25px;
   line-height: 40px;
   margin-right: 50px;
+}
+
+.last{
+  margin-bottom: 100px;
 }
 
 /*②*/
