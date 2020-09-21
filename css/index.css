@@ -36,6 +36,52 @@ body{
   margin: 0 auto;
 }
 
+/*①*/
+.information table{
+	width: 90%;
+	margin: 75px 5%;
+	font-size: 16px;
+	font-weight: bold;
+	border-collapse: collapse;/*テーブルの隙間を消す*/
+}
+
+.information th{
+	padding: 2% 0;
+	font-size: 25px;
+	background-color: #FEE1c7;
+	border-bottom: 3px solid #FFFFFF;
+}
+
+.information td{
+	padding: 3% 0;
+	width: 50%;
+	vertical-align: top;/*上ぞろえ*/
+	line-height: 300%;/*文の間隔*/
+	background-color: #FEE1c7;
+}
+
+.td_left_padding{
+	padding: 10% 10%;
+	border-right: 3px solid #FFFFFF;
+}
+
+.td_right_padding{
+	padding: 10% 10%;
+}
+
+.ban{
+	line-height: 130%/*文の間隔*/
+}
+
+.padding_1em{
+  padding-left:1em;/*文の先頭に１文字分のpadding*/
+}
+
+.information img{
+	width: 15px;
+}
+
+
 .warning{
   margin: 0 auto;
 }
