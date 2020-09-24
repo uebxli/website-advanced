@@ -36,6 +36,18 @@ body{
   margin: 0 auto;
 }
 
+
+.top_img{
+	background-image: url("../img/top.jpg");
+	background-size: cover;
+	width: 100vw;
+	height: 700px;
+	margin-top: 60px;
+	margin-right: calc(50% - 50vw);/*親要素の幅とマージンを無視して画面右側いっぱいに広げる*/
+	margin-left: calc(50% - 50vw);/*親要素の幅とマージンを無視して画面左側いっぱいに広げる*/
+	margin-bottom: 0;
+}
+
 /*①_1*/
 .sub_title{
 	width: 100vw;
