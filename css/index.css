@@ -1,8 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&display=swap');
 
 .caption {
-  width: 100%;
-  margin-left: -8px;
+  width: 105%;
   background-color: #759aab;
   margin: 60px 0 20px -8px;
 }
@@ -26,14 +25,6 @@
 .caption .top_totto h1 {
   color: #fefefe;
   font-size: 30px;
-}
-
-
-
-
-body{
-  max-width: 1080px;
-  margin: 0 auto;
 }
 
 /*①_1*/

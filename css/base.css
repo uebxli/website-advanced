@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&display=swap');
 
 body {
-  width: 100%;
   overflow-x: hidden;
   background-color: #fefefe;
   color: #474647;
@@ -55,7 +54,7 @@ header a {
 }
 
 main {
-  width: 90%;
+  max-width: 1080px;
   margin: 0 auto;
 }
 
@@ -74,7 +73,9 @@ p {
 }
 
 footer {
+  width: 105%;
   height: 60px;
+  margin-left: -8px;
   background-color: #474647;
   color: #fefefe;
   line-height: 60px;
